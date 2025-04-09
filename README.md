@@ -28,7 +28,7 @@ As long as human is the decision maker there is no AI agent involvement
 Ai agent means it will only reason and act no human intervention
 Goal will be clear about it should achieve finally what to do The LLM only will be review itself By reasoning and acting ReAct 
 
-![video](https://youtu.be/FwOTs4UxQS4?si=na7YLMHO0aXQGKNi)
+[video](https://youtu.be/FwOTs4UxQS4?si=na7YLMHO0aXQGKNi)
 
 
 
